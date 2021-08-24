@@ -24,6 +24,8 @@ CSV_PATH = './to_tag.csv'
 
 If you have put the script and the csv file in the same folder, just change the file name.
 
+- **fill line 23 with your token**
+
 - **run script**
 
 In your folder run:
