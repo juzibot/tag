@@ -20,7 +20,7 @@ import time
 
 CSV_PATH = './to_tag.csv'
 
-TOKEN = 'b32b984c678e4e9eae9bbfd1bae9aa2d'
+TOKEN = ''
 DETAIL_URL = 'https://hub.juzibot.com/api/v1/customer/detail?token=' + TOKEN
 POST_URL = 'https://hub.juzibot.com/api/v1/tag/mark?token=' + TOKEN
 TAG_MAP = {
